@@ -1,4 +1,4 @@
-**PolyMilk/PolyMilk**
+**PolyMilk | $MILK**
 
 Automatic Yield Farming & Liquidity growing DeFi protocol built on Polygon-
 
